@@ -85,7 +85,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 login-half-bg d-none d-lg-flex flex-row">
-                    <p class="text-white font-weight-medium text-center flex-grow align-self-end">Copyright &copy; 2021
+                    <p class="text-white font-weight-medium text-center flex-grow align-self-end">Copyright &copy; {{date('Y')}}
                         All rights reserved.</p>
                 </div>
             </div>
