@@ -26,7 +26,7 @@
                 <div class="col-lg-6 d-flex align-items-center justify-content-center">
                     <div class="auth-form-transparent text-left p-3">
                         <div class="brand-logo">
-                         <img src="{{asset('images/Indomie_logo.png')}}" alt="logo">
+                        
 
                         </div>
                         <h4>Welcome back!</h4>

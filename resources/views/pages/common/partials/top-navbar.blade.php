@@ -122,7 +122,7 @@
             <li class="nav-item nav-profile dropdown">
                 <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" id="profileDropdown">
 
-                    <img src="{{asset('images/Indomie_logo.png')}}" alt="profile"/>
+                  
 
                     <span class="nav-profile-name">{{auth()->check()?auth()->user()->name:'Not Logged In'}}</span>
                 </a>

@@ -20353,13 +20353,13 @@ dl li {
 /* === Landing screens === */
 /* Auth */
 .auth .login-half-bg {
-  background: url("../images/indomie-celeb.png");
+  background: url("../images/potters.jpg");
   background-size: cover;
   
 }
 
 .auth .register-half-bg {
-  background: url("../images/auth/register-bg.jpg");
+  background: url("../images/auth/potters.jpg");
   background-size: cover;
 }
 
