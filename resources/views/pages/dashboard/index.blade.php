@@ -50,7 +50,7 @@
           <!-- row end -->
 
           <div class="card-body">
-                            <h4 class="card-title">Upload Logs</h4>
+                            <h4 class="card-title">Import Logs</h4>
                             <p class="card-description">
                                 {{--Add class <code>.table-striped</code>--}}
                             </p>
